@@ -129,3 +129,18 @@ h4 {
   margin-bottom: 35px;
 }
 
+.pic {
+  height: 100px;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.horo {
+  height: 500px;
+}
+
+.horospan {
+  height: 80px;
+  margin-bottom: auto;
+}
+
